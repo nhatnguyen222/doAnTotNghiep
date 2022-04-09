@@ -10,4 +10,4 @@ Giảng viên Hướng Dẫn : ThS. Trần Phong Nhã
 
 * Ngày 6/4 :  Hoàn thành UseCase Tổng qua, Phân rã UseCase,Quy trình Nghiệp Vụ,Đặc Tả Chức Năng
 
-* Ngày 9/4 : Hoàn thành biểu đồ đóng gói  
+* Ngày 9/4 : Hoàn thành biểu đồ đóng gói, thiết kế lớp, biểu đồ trình tự
